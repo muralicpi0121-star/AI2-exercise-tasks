@@ -1,3 +1,4 @@
 "Hi! This is Murali"
 This is My First AI2 Project
 Currently, I'm MSc Digital farming student in HSWT
+I'm intrest to learn Pytho and AI course
